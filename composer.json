@@ -30,7 +30,7 @@
         "sort-packages": true,
         "optimize-autoloader": true
     },
-    "minimum-stability": "alpha",
+    "minimum-stability": "dev",
     "prefer-stable": true,
     "scripts": {
         "post-root-package-install": [
