@@ -1,5 +1,5 @@
 {
-    "name": "bonevian/custom-lumen",
+    "name": "bonevian/lumen",
     "description": "The Custom Laravel Lumen Framework.",
     "keywords": ["framework", "laravel", "lumen"],
     "license": "MIT",
